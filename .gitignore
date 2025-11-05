@@ -4,5 +4,5 @@
 # Do not include this annoying file
 .DS_Store
 
-# Do not include folder marks
-*.gitkeep
+# # Do not include folder marks
+# *.gitkeep
