@@ -1,0 +1,8 @@
+# Do not include this files in the repository because they are too heavy and can be generated using "gen_data.py"
+*.txt
+
+# Do not include this annoying file
+.DS_Store
+
+# Do not include folder marks
+*.gitkeep
