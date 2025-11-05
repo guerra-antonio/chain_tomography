@@ -6,3 +6,9 @@
 
 # Do not include folder marks
 *.gitkeep
+
+# Ignorar archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
