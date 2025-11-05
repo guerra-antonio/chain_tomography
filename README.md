@@ -40,9 +40,7 @@ Contiene las rutinas principales:
 - **Bases mutuamente no sesgadas (MUB1–MUB5)** definidas para dimensión 4.  
 - `extract_data(df, n)`: obtiene los proyectores y probabilidades de cada bloque experimental.  
 - `tomography(data)`: resuelve el problema de optimización por mínimos cuadrados sujeto a las restricciones  
-  \[
-  \rho \succeq 0, \quad \text{Tr}(\rho) = 1
-  \]
+  $ \rho \succeq 0, \quad \text{Tr}(\rho) = 1 $
 - `fidelity(rho, sigma)`: calcula la fidelidad cuántica entre dos matrices densidad reconstruidas.
 
 ---
