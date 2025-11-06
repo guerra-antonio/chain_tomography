@@ -1,7 +1,7 @@
 # 🧮 Quantum State Tomography (4D)
 
 Este repositorio implementa un esquema completo de **tomografía cuántica** para reconstruir matrices densidad de sistemas bidimensionales compuestos (dos qubits, dimensión 4).  
-El proceso se basa en medidas en **bases mutuamente no sesgadas (MUBs)** y en optimización convexa utilizando **CVXPY**.
+El proceso se basa en medidas en **bases mutuamente no sesgadas (MUBs)** y en optimización utilizando **CVXPY**.
 
 ---
 
